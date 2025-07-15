@@ -42,13 +42,13 @@ const Navbar = () => {
               <Button
                 variant="outline"
                 size="sm"
-                onClick={() => signOut({ callbackUrl: "/pages/Login" })}
+                onClick={() => signOut({ callbackUrl: "/Login" })}
               >
                 Logout
               </Button>
             </>
           ) : (
-            <Link href="/pages/Login">
+            <Link href="/Login">
               <Button size="sm" variant="outline">
                 Login
               </Button>
@@ -101,7 +101,7 @@ const Navbar = () => {
               </Button>
             </>
           ) : (
-            <Link href="/pages/Login">
+            <Link href="/Login">
               <Button size="sm" variant="outline">
                 Login
               </Button>
