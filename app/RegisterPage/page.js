@@ -70,7 +70,7 @@ const Register = () => {
       console.log("form reset done ")
         const form = e.target;
         form.reset();
-        router.push("/pages/Login");
+        router.push("/Login");
       } else {
         console.log("User registration failed.");
       }
