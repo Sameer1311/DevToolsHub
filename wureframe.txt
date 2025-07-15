@@ -1,0 +1,19 @@
++------------------------------------------------------+
+| DevToolsHub                             [Links/Theme]|
++------------------------------------------------------+
+
+               🔧 Developer Toolbox 🔧
+     All your favorite utilities in one place
+
+--------------------------------------------------------
+| [🎨 Color Picker     ]  [🔠 Regex Tester     ]        |
+| Choose and copy hex    Test regular expressions      |
+--------------------------------------------------------
+| [📝 Markdown Editor ]  [{} JSON Formatter   ]        |
+| Edit & preview MD       Format and validate JSON     |
+--------------------------------------------------------
+| [📄 Base64 Encoder  ]  [🔁 Unit Converter    ]        |
+| Encode files/text        Convert between units       |
+--------------------------------------------------------
+
+         [ Suggest a Tool ]   [ Feedback ]
