@@ -79,7 +79,7 @@ const Navbar = () => {
       {/* Mobile Dropdown */}
       {menuOpen && (
         <div className="md:hidden flex flex-col items-start gap-4 px-6 pb-4 text-sm font-medium text-muted-foreground">
-          <Link href="/pages/Developer" className="hover:text-primary transition-colors">
+          <Link href="/Developer" className="hover:text-primary transition-colors">
             Developer
           </Link>
           <Link href="#contact" className="hover:text-primary transition-colors">
