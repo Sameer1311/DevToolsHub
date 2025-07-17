@@ -27,6 +27,9 @@ const Hero = () => {
     },
     
   ];
+  
+const MondoDbUri = process.env.NEXTAUTH_URL
+console.log(MondoDbUri)
 
   return (
     <section className="w-screen h-full md:h-screen  text-foreground relative overflow-hidden md:m-0 mt-3">
